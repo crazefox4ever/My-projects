@@ -81,7 +81,7 @@ py==1.8.1
 pyasn1==0.4.8
 pycodestyle==2.5.0
 pycparser==2.19
-pycryptodome==3.3.1
+pycryptodome==3.6.6
 pygame==1.9.6
 Pygments==2.5.2
 PyJWT==1.7.1
